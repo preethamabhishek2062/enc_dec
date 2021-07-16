@@ -1,16 +1,14 @@
 # enc_dec
 
-A new Flutter project.
+A Flutter app  that  implements Steganography methods  to  hide  files  in  images  using Least  Significant  Bit technique and AES Encryption.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="688" alt="enc_dec 1" src="https://user-images.githubusercontent.com/76392717/125952440-f34a6158-df0f-4720-9ef8-9afcc164b1dd.png">
+<img width="688" alt="enc_dec 2" src="https://user-images.githubusercontent.com/76392717/125952459-f31e48b8-1a66-4204-bc54-0e4e848e4a4f.png">
+<img width="688" alt="enc_dec 3" src="https://user-images.githubusercontent.com/76392717/125952464-fcc7d794-e1a4-495b-83e6-64fd947a5e82.png">
+<img width="688" alt="enc_dec 4" src="https://user-images.githubusercontent.com/76392717/125952472-0a69bacc-18bd-4bd6-9ceb-c313f96b0514.png">
+<img width="688" alt="enc_dec 5" src="https://user-images.githubusercontent.com/76392717/125952476-390fa95f-b794-46e2-a5d3-fa05ca01dff1.png">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
